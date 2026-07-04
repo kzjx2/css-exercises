@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    font-family: Verdana, Dejavu-Sans, sans-serif;
+    background-color: #F88379;
+}
+
+.oneid {
+    color:blue;
+    font-size: 36px 
+}
+
+.special {
+    font-size: 24px;
+}
+
+.anoid {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
